@@ -20,7 +20,7 @@
 
   <section>
     <h2>About Me</h2>
-    <img src="https://via.placeholder.com/150" alt="Profile Picture">
+    <img src=https://www.facebook.com/profile.php?id=100071026369084 alt="Profile Picture">
     <p>Hello! My name is Alabi Samson Olaniyi. I’m passionate about learning and exploring new things. I enjoy spending my time engaging in fun activities and building new experiences.</p>
   </section>
 
@@ -38,8 +38,8 @@
 
   <footer>
     <h2>Contact</h2>
-    <p>Email: samson.alabi@example.com</p>
-    <p>Instagram: @samsontravels</p>
+    <p>Email: alabi.n.samson@gmail.com</p>
+    <p>Instagram: @alabisamsonolwniyi</p>
   </footer>
 
 </body>
