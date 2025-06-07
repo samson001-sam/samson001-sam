@@ -39,7 +39,7 @@
   <footer>
     <h2>Contact</h2>
     <p>Email: alabi.n.samson@gmail.com</p>
-    <p>Instagram: @alabisamsonolwniyi</p>
+    <p>Instagram: @alabisamsonolaniyi</p>
   </footer>
 
 </body>
